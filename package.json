@@ -1,11 +1,19 @@
 {
   "name": "timeutils",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "This is tool for some common usages",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "IChocolateKapa<echochocolatekapa@163.com> (https://github.com/IChocolateKapa)",
-  "license": "ISC"
+  "author": "IChocolateKapa <echochocolatekapa@163.com> (https://github.com/IChocolateKapa)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IChocolateKapa/timeutils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IChocolateKapa/timeutils/issues"
+  },
+  "homepage": "https://github.com/IChocolateKapa/timeutils#readme"
 }

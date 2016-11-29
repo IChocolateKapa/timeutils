@@ -48,3 +48,5 @@ if you are with ES6:
 `
   var _f1 = timeUtils.getFormatTime() // return current date format as 'YYYY-MM-DD' by default
 `
+
+### For more infomation, I suggest you can download src file and read it by yourself. :)

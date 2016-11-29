@@ -1,0 +1,11 @@
+{
+  "name": "timeutils",
+  "version": "1.0.5",
+  "description": "This is tool for some common usages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "IChocolateKapa<echochocolatekapa@163.com> (https://github.com/IChocolateKapa)",
+  "license": "ISC"
+}
